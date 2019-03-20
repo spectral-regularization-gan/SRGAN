@@ -1,4 +1,7 @@
 # SRGAN
+Implementation of spectral regularization in GANs.  
+The baseline architecture keeps identical to that in SN-GANs. https://github.com/pfnet-research/sngan_projection
+
 
 ## Prerequisites
 
